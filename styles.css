@@ -16,3 +16,9 @@ body {
 #topwrap {
     background: rgb(50,40,71);
 }
+header {
+    height: 130px;
+    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+}
